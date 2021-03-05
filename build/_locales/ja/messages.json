@@ -1,0 +1,40 @@
+{
+    "appName": {
+        "message": "Jump from en-us to ja-jp or the other page",
+        "description": "Jump from en-us to ja-jp or the other page"
+    },
+    "appDesc": {
+        "message": "URL の文字列を判断して、英語↔日本語 あるいはその他 ページ ジャンプします。",
+        "description": "URL の文字列を判断して、英語↔日本語 あるいはその他 ページ ジャンプします。"
+    },
+    "defaultTitle": {
+        "message": "英語↔日本語 あるいはその他 ページ"
+    },
+    "popupTitle": {
+        "message": "英語↔日本語 あるいはその他 ページ ジャンプ"
+    },
+    "newTabLabel": {
+        "message": "新しいタブでジャンプ先のページを開く"
+    },
+    "save": {
+        "message": "保存"
+    },
+    "optionSaved": {
+        "message": "オプションが保存されました。"
+    },
+    "optionsTitle": {
+        "message": "拡張機能のオプション"
+    },
+    "languageUnknown": {
+        "message": "URL の言語は不明です。"
+    },
+    "openInNewTab": {
+        "message": "URL の言語は _0_ です。_1_ の新規タブを表示します。"
+    },
+    "openInCurrentTab": {
+        "message": "URL の言語は _0_ です。_1_ にジャンプします。"
+    },
+    "localeLabel": {
+        "message": "en-us 'English (United States)' ページからジャンプする先の言語（ロケール）"
+    }
+}
